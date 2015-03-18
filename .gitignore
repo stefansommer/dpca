@@ -1,0 +1,22 @@
+# python
+*.pyc
+*.pyo
+*.npy
+
+# images and movies
+*.png
+*.mp4
+
+# compiled / auto generated
+*.so
+*_wrap.*
+
+# dirs
+code/output
+code/movie_frames
+
+.ipynb_checkpoints/
+
+# individual files
+code/kernels/gaussian.py
+code/kernels/gaussian_wrap.*
